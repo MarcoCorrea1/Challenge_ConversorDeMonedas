@@ -14,7 +14,8 @@ Finalmente el programa automaticamente nos dara la informacion generada segun el
 y nos preguntara si deseamos realizar otra consulta.
 ![image](https://github.com/MarcoCorrea1/Challenge_ConversorDeMonedas/assets/112414118/813ef240-b669-43f4-a154-0c4fdc4a7eb6)
 
-si seleccionamos que no (2) el programa finalizara, de no ser asi el programa comanzara de nuevo para realizar una consulta nueva.
+si seleccionamos que no (2) el programa finalizara, 
+de no ser asi el programa comanzara de nuevo para realizar una consulta nueva.
 ![image](https://github.com/MarcoCorrea1/Challenge_ConversorDeMonedas/assets/112414118/b4e1fcd2-f249-4011-aebf-ac6b6b98ee27)
 
 
